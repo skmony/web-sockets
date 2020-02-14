@@ -1,0 +1,15 @@
+{
+  "name": "web-sockets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "justWsServer.js",
+  "scripts": {
+    "dev": "nodemon justWSServer.js",
+    "start": "node justWSServer.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^7.2.1"
+  }
+}
